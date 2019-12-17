@@ -29,6 +29,28 @@ The feeling of isolation and loneliness is prevalent in universities in big citi
 
 **Are we facing a form of ‘Uberization of love’?**
 
+**Proposed concept : “Listen”**
+
+“Listen” is a dating application that differs itself from its competitors on the dating application landscape.  It is neither a “fast-dating” application nor an application based on physical appearances. “Listen” is a dating application centered on voice sharing and aiming at building a strong bond by allowing trust and confidence between its users. Thus the application entails multiple steps :
+
+_Step One_ : Find a matchRegular dating apps based on catalogue-like user photos entails the emergence of a loss of confidence that can progressively affect people’s interactions with one another and contribute to the development of a feeling of loneliness. Voice, on the other hand, is a rich source of information for those who listen. In addition to being a medium of communication, it allows physical and social assessments. Furthermore, according to a huge body of research (Collin S., Missing C., Riding D. and Brown B.), voice is linked to human sexuality and is an important factor in defining attractiveness in someone. It is more intimate than pictures and can lead to less superficial “matches” between users. 
+
+_Step Two_ : Interaction!This is the most important step in the first development of a bond between the two users. Having the option of sending voice recordings, as well as texts for users who do not have the possibility to record or are more comfortable with typing, creates a more active form of conversation. Laughter, hesitations, tone of voice… These are all primordial elements in an interaction that are unfortunately lost when texting. Similarly to a phone call, with “Listen”, the users will be fully invested in the discussion and will be less passive or uninvolved than with regular dating apps. The “hiding behind a screen” effect will be less present or erased as interacting through voice notes will foster the creation of a deeper and more real first connection. 
+
+_Step Three_ : Revelation. Once both parties feel at ease with each other, they will have the ability to reveal their pictures by clicking on a button. The application will then release the photos that users have uploaded when creating their account. As a security measure, no user can create an account without confirming its identity with a picture. The goal of this later revelation is to have users appreciate each other and develop a bond based on more than just looks. 
+Final Step : The first date. If everything goes well in the previous steps, it will be time for the users to organize a meet-up based on their actual interests and common points and perhaps create the foundation to what may become a relationship. 
+
+The multiple numbers of step will create a form of autoselection of users using the app. On top of that, additional features are added to provide psychological assistance to the users at every step : 
+
+_Chatbot_
+Helping out the users in figuring out the kind of situation they are confronted to, trying to deal with problems of rejection, doubts or just having questions on the functionning of the application. The chatbot will be a form of  psychological assistance users can rely on. It will be handled by trained psychologists hired by Listen to help our users: from teaching users how to be more confident and love themselves, to help them deal with rejection... Due to the impossibility of having professionals available 24h/7, booking psychological sessions will be possible through the application. The application will also aim at normalizing psychological sessions which can deal with negative stereotypes. 
+
+_Uniqueness of Listen?_
+The psychological assistance and the use of the “voice” as central parts of the project are what distinguish Listen from what has been done until now on the dating application landscape. This creativity will definitely trigger interest from potential users as well as answer their need to create more connections with potential partners. 
+As seen above, voice is an essential factor that impacts people’s way of defining attractiveness. Through vocal interactions, people express themselves and communicate with each other. It allows a degree of intimacy that other senses can’t provide. In a world where almost everything seems to have replaced voice interactions (mails, messaging apps), the users are invited to disclose themselves through a sense that can reveal a lot about someone’s personality and sensibility. It will allow them to feel less objectified, to develop a more healthy relationship with each other. The psychological assistance that will be provided to them will also contribute to that as well as trivializing a profession that has been negatively perceived by some parts of the population. 
+The project seems to be completely feasible but will definitely require us to complete our knowledge with hard skills.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
