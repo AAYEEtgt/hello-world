@@ -1,8 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to AAYEE's Great Transtion project. 
 
-You can use the [editor on GitHub](https://github.com/AAYEEtgt/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our Challenge is the following : to reduce loneliness of at least 50 persons using dating apps by June 2020. Our solution? Listen. Here is a detailed outline of the situation and our proposed concept.
+
+**Problem**
+
+_What we know about the context_
+
+Loneliness is a complex and unpleasant emotion. It typically arises when there is a lack of social connection or communication. Loneliness is widespread throughout society amongst people who are single, in a relationship or even married. This social pain is intensified with the presence of dating apps. Dating applications are much more accessible than dating websites now. It requires less information (text, name, age etc.) and they offer the opportunity to meet up with strangers whenever and wherever. Although dating apps can broaden social interactions in theory, people still find it difficult to cultivate deep and intimate connections. The increasing use of applications raised a lot of questions amongst psychologists on their impact on loneliness. Psychologist Melissa G. Hunt and her team made an experimental study on the well being of two groups of undergraduate students, one being limited to 10 minutes use of facebook, instagram and snapchat and the other one continuing using it as usual. This experiment provides us an interesting outcome :the group with limited access to those applications showed an important decrease in loneliness and depression. A question can be raised through this study : what about dating apps ? 
+
+Tinder, created in 2012, is one of the major online applications with more than 57 million users around the world. The application is available in 190 countries and 40 different languages. According to a survey released by LenEdu (consumer financing company) on 3,800 millennials aged between 18 and 22 years old on how they meet up with their tinder matches, 70% do not meet their matches. They also found that 44% of millennials go on the application to boost their own confidence. We can see that there is a ‘swiping culture’ of virtual validation. Dating apps like Tinder encourages people to establish a carefully curated online presentation (we only show what we want others to see) According to the Ohio State University, people who describe themselves as lonely and socially anxious tend to be more addicted to dating apps which contributes to the creation of a loneliness cycle and even depression and anxiety.
+
+_What problem are we answering?_
+
+Dating apps which were created to reduce loneliness by allowing one another to meet their significant other, contributes to the feeling of loneliness, anxiety and to some extent depression. It is especially true amongst university students who interact in an overwhelming environment. How can we reduce the impact that dating apps have on loneliness, anxiety, loss of self-confidence or even depression? Through our solution we would like to reduce loneliness on at least 50 students using dating apps at Sciences Po Paris, Parisian campus, by june 2020. 
+
+_What’s at stake?_
+
+According to sociologist erik Erikson’s stages of psychological development, young adults struggle to find a balance between intimacy and isolation. He believes that we sometimes feel isolated due to intimacy as we are afraid of rejections like being turned down or our partners breaking up with us. To some, the idea of being rejected is so painful that their egos cannot bear the consequences. During young adulthood, people at this stage of life struggles to form reciprocal and successful romantic relationship. Therefore, our target group of people are young students from Sciences Po Paris campus. We believe that the feeling of loneliness and isolation peaks for our targeted group of people. 
+
+_What needs? what constraints?_
+
+Young adults need to feel accepted and loved. However, we live in a fast and superficial digital world where people’s feelings are sometimes neglected. People need to find a way to comfortably be themselves: to be heard and understood. To build an emotional connection with others, we need to find new ways to interact with other people. As it is not possible to put an end to the use of dating applications, it would be interesting to see how to rethink these applications in order to entail these new social components. 
+
+_Why is this problem important?_
+
+The feeling of isolation and loneliness is prevalent in universities in big cities like Sciences Po Paris. According to the Observatoire de la vie étudiante, amongst the students questioned, 25% of students suffer from loneliness. The fast-paced environment and the rise of technology makes it difficult to meet people in a traditional manner. This leads to the popular use of dating apps. However, the use of dating apps can result in various problems. Firstly, it creates and intensifies the sense of loneliness. Dating applications promote virtual interactions that can be immensely different than reality. As they allow the “hide behind a screen” effect, people tend to let aside some communication etiquette. ‘Ghosting’, a practice of ending a personal relationship with someone by suddenly withdrawing from all communication without explanation, can lead to psychological trauma. Secondly, dating apps creates a superficial culture where people are judged based on the way they look as well as the way they text. This can lead to serious issues such as racial profiling, ageism, homophobia and misogyny. People are becoming more and more anxious and afraid of being judged and rejected based on the way they look. Thirdly, since users may have vastly different intentions (from genuine relationships to one night stands), people may be mismatched and feel disappointed. Dating apps can also lead to other serious problems such as stalking and sexual harassment. Although technology allows us to communicate with other people easier, it seems like forming intimate relationships are becoming harder and harder. 
+
+**Are we facing a form of ‘Uberization of love’?**
 
 ### Markdown
 
